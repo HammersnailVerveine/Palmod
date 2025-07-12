@@ -1,0 +1,187 @@
+Projectiles: {
+	SphereProj.DisplayName: Sphere
+	SphereProjHell.DisplayName: Sphere
+	SphereProjDesert.DisplayName: Sphere
+	SphereProjDungeon.DisplayName: Sphere
+	SphereProjEvil.DisplayName: Sphere
+	SphereProjHallow.DisplayName: Sphere
+	SphereProjJungle.DisplayName: Sphere
+	SphereProjSky.DisplayName: Sphere
+	SphereProjUnderground.DisplayName: Sphere
+	SphereProjUniversal.DisplayName: Sphere
+	SphereProjLuminite.DisplayName: Sphere Proj Luminite
+	SphereProjDebug.DisplayName: Sphere Proj Debug
+}
+
+Common: {
+	ReleaseMode: Release Mode
+	CaptureMode: Capture Mode
+	CannotUse: Cannot Use
+	TeleportedCaptures: Teleported Captures
+	TeleportOnCooldown: Teleport on Cooldown
+	CaptureFormation: Capture Formation
+	CombatFormation: Combat Formation
+	CapturesReleased: Captures Released
+	NothingToRelease: Nothing to Release
+	Slots: Slots
+	NoCaptures: No Captures
+}
+
+Items: {
+	Sphere: {
+		DisplayName: Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			'''
+	}
+
+	SphereHell: {
+		DisplayName: Underworld Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in the underworld
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereDesert: {
+		DisplayName: Desert Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in deserts
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereDungeon: {
+		DisplayName: Dungeon Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in the dungeon
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereEvil: {
+		DisplayName: Evil Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in evil biomes
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereHallow: {
+		DisplayName: Hallow Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in the hallow
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereJungle: {
+		DisplayName: Jungle Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in the jungle and glowing mushroom
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereSky: {
+		DisplayName: Sky Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% above the surface
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereUnderground: {
+		DisplayName: Underground Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 200% in purity and snow underground
+			+1 Capture Bonus
+			'''
+	}
+
+	SphereUniversal: {
+		DisplayName: Universal Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 250%
+			+2 Capture Bonus
+			'''
+	}
+
+	SphereLuminite: {
+		DisplayName: Luminite Capture Sphere
+		Tooltip:
+			'''
+			Allows capturing and using enemies to fight for you
+			Right click to switch between Capture and Release modes
+			Benefits from summon damage
+			Drastically reduced damage while normal minions are active
+			Damage and capture thresholds increased by 400%
+			+4 Capture Bonus
+			'''
+	}
+
+	SphereDebug: {
+		DisplayName: Debug Capture Sphere
+		Tooltip:
+			'''
+			Captures enemies with no threshold
+			+9 Capture Bonus
+			-Test item-
+			'''
+	}
+}
+
+Keybinds: {
+	Teleport.DisplayName: Teleport Captures to Player
+	Release.DisplayName: Release All Captures
+	NoKill.DisplayName: Toggle Combat and Capture Formations
+}

@@ -1,0 +1,5 @@
+This mod adds a summoner subclass allowing the player to tame NPCs and use them like minions.
+It is NOT balanced, and will likely never be, but profides a fun and unique experience.
+
+There WILL be bugs in the early versions of the mod, please tell me if you encounter any!
+Multiplayer is currently not implemented, but will be in the future.

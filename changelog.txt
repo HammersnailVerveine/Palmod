@@ -1,0 +1,2 @@
+Non published yet
+- Projectiles created by tamed NPCs now deal "Summon Damage"

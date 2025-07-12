@@ -1,0 +1,16 @@
+This mod adds a summoner subclass allowing the player to tame NPCs and use them like minions.
+Even though I'm doing my best, the nature of the mod means it is NOT balanced, and will likely never be, but provides a fun and unique experience :)
+
+The first capture sphere is sold by the Merchant, and can be upgraded.
+
+[quote=Keybinds]Check your keybinds! You will need them[/quote]
+
+There WILL be bugs in the early versions of the mod, please tell me if you encounter any!
+Multiplayer is currently not implemented, but will be in the future.
+
+The mod will be compatible with Modded NPCs using vanilla AIStyles.
+Please, do not ask if the mod is compatible with X or Y, mod, I do not know, try it out
+
+Thanks to @Chevalier for the Chinese Localization of the mod!
+
+[quote=Verveine]Watch the video for more info on the mod and its content![/quote]
